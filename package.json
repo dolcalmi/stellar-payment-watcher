@@ -1,0 +1,38 @@
+{
+  "name": "y",
+  "version": "0.1.0",
+  "description": "Stellar payment watcher library",
+  "main": "./index.cjs",
+  "exports": {
+    ".": "./index.js"
+  },
+  "type": "module",
+  "author": "Juan P Lopez <dolcalmi@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "stellar",
+    "nodejs",
+    "payment",
+    "watcher",
+    "xlm"
+  ],
+  "homepage": "https://github.com/dolcalmi/stellar-payment-watcher#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolcalmi/stellar-payment-watcher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dolcalmi/stellar-payment-watcher/issues"
+  },
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "esm": "^3.2.25",
+    "stellar-sdk": "^3.3.0"
+  },
+  "scripts": {
+    "test": "npm run lint && npm run mocha"
+  }
+}
