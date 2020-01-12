@@ -2,9 +2,9 @@
   "name": "y",
   "version": "0.1.0",
   "description": "Stellar payment watcher library",
-  "main": "./index.cjs",
+  "main": "./lib/index.cjs",
   "exports": {
-    ".": "./index.js"
+    ".": "./lib/index.js"
   },
   "type": "module",
   "author": "Juan P Lopez <dolcalmi@gmail.com>",
