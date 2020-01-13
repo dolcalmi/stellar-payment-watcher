@@ -1,12 +1,8 @@
 {
-  "name": "y",
+  "name": "stellar-payment-watcher",
   "version": "0.1.0",
   "description": "Stellar payment watcher library",
-  "main": "./lib/index.cjs",
-  "exports": {
-    ".": "./lib/index.js"
-  },
-  "type": "module",
+  "main": "./lib/index.js",
   "author": "Juan P Lopez <dolcalmi@gmail.com>",
   "license": "MIT",
   "keywords": [
@@ -18,7 +14,8 @@
   ],
   "homepage": "https://github.com/dolcalmi/stellar-payment-watcher#readme",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "test"
   },
   "repository": {
     "type": "git",
