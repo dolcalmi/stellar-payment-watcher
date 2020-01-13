@@ -20,5 +20,5 @@ deploy:
     tag: $(npm_dist_tag)
     on:
       tags: true
-      repo: ariari-co/ariari-accounts-sdk
+      repo: dolcalmi/stellar-payment-watcher
       node: 12.14.1
