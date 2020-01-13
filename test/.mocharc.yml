@@ -1,0 +1,11 @@
+bail: true
+recursive: true
+require: './test/mocha.js'
+# watch: false
+watch-files:
+  - 'lib/**/*.js'
+  - 'test/**/*.js'
+
+# --bail
+# --recursive
+# --require ./test/mocha.js

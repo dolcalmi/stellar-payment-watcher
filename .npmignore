@@ -1,0 +1,39 @@
+# https://docs.npmjs.com/misc/developers#keeping-files-out-of-your-package
+
+examples
+dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#tests
+test.js
+test.csv
+test.output.csv
+test
+coverage
+.nyc_output
+.github
+karma.conf.js
+webpack*
+
+#build tools
+.travis.yml
+.jenkins.yml
+.codeclimate.yml
+
+#linters
+.jscsrc
+.jshintrc
+.eslintrc*
+
+#editor settings
+.idea
+.editorconfig
+
+test.js
+test.cjs
