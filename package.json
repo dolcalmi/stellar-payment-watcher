@@ -30,7 +30,7 @@
     "report": "nyc -r text -r lcov report",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "mocha": "nyc mocha",
+    "mocha": "nyc mocha --bail --recursive --require ./test/mocha.js",
     "test": "npm run lint && npm run mocha",
     "preversion": "npm run test",
     "version": "npm run build",
