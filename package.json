@@ -1,6 +1,6 @@
 {
   "name": "stellar-payment-watcher",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "Stellar payment watcher library",
   "main": "./lib/index.js",
   "author": "Juan P Lopez",
