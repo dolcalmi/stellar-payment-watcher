@@ -1,6 +1,6 @@
 # Stellar payment watcher
 [![Version](https://img.shields.io/npm/v/stellar-payment-watcher.svg)](https://www.npmjs.org/package/stellar-payment-watcher)
-[![Build Status](https://api.travis-ci.org/dolcalmi/stellar-payment-watcher.svg?branch=master)](https://travis-ci.org/dolcalmi/stellar-payment-watcher)
+[![Build Status](https://api.travis-ci.com/dolcalmi/stellar-payment-watcher.svg?branch=master)](https://travis-ci.com/github/dolcalmi/stellar-payment-watcher)
 [![Coverage Status](https://coveralls.io/repos/github/dolcalmi/stellar-payment-watcher/badge.svg?branch=master)](https://coveralls.io/github/dolcalmi/stellar-payment-watcher?branch=master)
 [![David](https://img.shields.io/david/dolcalmi/stellar-payment-watcher.svg)](https://david-dm.org/dolcalmi/stellar-payment-watcher)
 [![David](https://img.shields.io/david/dev/dolcalmi/stellar-payment-watcher.svg)](https://david-dm.org/dolcalmi/stellar-payment-watcher?type=dev)
