@@ -38,7 +38,7 @@
   "dependencies": {
     "bignumber.js": "^9.0.1",
     "esm": "^3.2.25",
-    "stellar-sdk": "^7.0.0"
+    "stellar-sdk": "^8.2.3"
   },
   "devDependencies": {
     "chai": "^4.2.0",
